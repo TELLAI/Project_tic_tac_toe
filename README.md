@@ -1,20 +1,39 @@
-Je dois pouvoir choisir qui commence (X ou O).
+﻿
+  ![Incubateur Simplon.co : présentation, liste startups, interview](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSEcKwborrMn9-Q2kmVlfAFLlq3M5DjW5Hlw&usqp=CAU)
 
-Vous allez apprendre à travailler à plusieurs sur un même repo git sans vous marcher dessus (branches, pull requests).
+this project is part of our courses at simplon school
 
-Vous pouvez garder le design tout simple, ou vous amuser en créant des animations par exemple. Pas de limites :)
+### Microsoft Cloud Developer
 
-Le but est quand même de faire un jeu "complet":
+# Tic-tac-toe game:
 
-    une page d'accueil :
+The goal of this project is to build a Tic-tac-toe game using web interface.
 
-sur laquelle on peut choisir qui commence, et si on veut O ou X
+# Specifications:
 
-    la page de jeu :
-    une page de fin : victoire ou défaite
+-   Code a tic-tac-toe game.
+	- player select who starts (X or O).
+	- make a simple  user-friendly front.
+	- add a replay button.
+	- store scores.
+	- make a action for winning step.
+	- extra step : code a IA opponent (if selected).
+-   handle  Github to work in group
+-   launch it localy
 
-bouton "recommencer" -> Page d'accueil
+## Build with:
 
-On garde en mémoire le nombre de victoires et défaites.
+-   HTML
+-  CSS
+- Vanilla JS
 
-Votre IA pourra être plus ou moins évoluée : soit au hasard, soit elle calcule la meilleure stratégie.
+
+## install and run :
+
+1.  Clone this repository.
+    
+2.  Open source folder in your code editor.
+    
+3.  run index.html
+
+
